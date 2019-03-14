@@ -346,6 +346,7 @@ Conor Shields (https://github.com/cshields236)
 - [Andreas Lind](https://github.com/Fezter82)
 - [Aayush Sharma](https://github.com/Aayu8982)
 - [Satyam Bhalla](https://github.com/Satyam-Bhalla)
+- [Daron H]
 - [Tania Pagan-Rosario](https://github.com/TaniaPaganRosario)
 - [Asim Thapa](https://github.com/asimtut)
 - [Amarjit Singh](https://github.com/bob1982)
